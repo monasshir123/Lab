@@ -1,2 +1,2 @@
 # Lab
-c program + linux (shellscripting)
+Operating System // core Programming linux (shellscripting)
